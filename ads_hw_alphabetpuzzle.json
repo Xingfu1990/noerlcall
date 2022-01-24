@@ -1,10 +1,10 @@
 {
     "ads": {
       "id_app": "",
-      "banner_setting": "testw6vs28auh3",
-      "inter_setting": "teste9ih9j0rc3",
-      "banner_main": "testw6vs28auh3",
-      "inter_main": "teste9ih9j0rc3",
+      "banner_setting": "d6lb8kvydu",
+      "inter_setting": "b8k30qk0fl",
+      "banner_main": "y57ubh4yed",
+      "inter_main": "t6qms1m1s9",
   
       "banner_setting_new": "",
       "inter_setting_new": "",
@@ -23,7 +23,7 @@
       "is_exists": true,
       "is_show_more": false,
       "isLoading": false,
-      "isShowAds": false
+      "isShowAds": true
     },
     "apps": []
   }
